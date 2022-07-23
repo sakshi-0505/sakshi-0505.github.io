@@ -1,5 +1,4 @@
-Welcome to my web project LawOffice.
-LawOffice is a website for self employed lawyers.
+Welcome to homepage of Law Scholars.
 Website is also mobile responsive.
 
-A.K.
+
